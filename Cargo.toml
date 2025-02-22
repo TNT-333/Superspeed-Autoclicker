@@ -1,0 +1,10 @@
+[package]
+name = "rust_autoclicker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22"
+enigo = "0.0.14"
+rdev = "0.5.0"
+rodio = "0.14"
