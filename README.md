@@ -1,5 +1,6 @@
 <h1>Superspeed Autoclicker</h1><hl />
 <h3>1000+ CPS autoclicker written in Rust.</h3>
+a friend of mine got more than 2k cps with this lol i guess it depends
 <h4>Features:</h4>
 <ul>
   <li>Adjustable start/stop hotkey</li>
