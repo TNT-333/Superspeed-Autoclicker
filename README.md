@@ -4,7 +4,7 @@ a friend of mine got more than 2k cps with this lol i guess it depends
 <h4>Features:</h4>
 <ul>
   <li>Adjustable start/stop hotkey</li>
-  <li>Click rate modes: Superspeed (as fast as possible), Consistent Rate (adjustable CPS value from 1-1000)</li>
+  <li>Click rate modes: Superspeed (as fast as possible, <b>CRASHES OR HANGS MOST SOFTWARE OR EVEN YOUR DESKTOP</b>), Consistent Rate (adjustable CPS value from 1-1000, safer)</li>
   <li>Ability to select multiple mouse buttons at once</li>
   <li>Play sound on click</li>
   <li>Built in CPS tester</li>
